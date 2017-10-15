@@ -1,0 +1,23 @@
+{
+  "name": "mongoscraper",
+  "version": "1.0.0",
+  "description": "article scraper",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlqc007/MongoScraper.git"
+  },
+  "keywords": [
+    "mongo"
+  ],
+  "author": "jlqc007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlqc007/MongoScraper/issues"
+  },
+  "homepage": "https://github.com/jlqc007/MongoScraper#readme"
+}
